@@ -27,6 +27,9 @@
   <ItemGroup>
     <ResourceCompile Include="BetterWindows1.rc" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="screenshots\rename popup.png" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{a9a64b6c-cf7b-45ac-b2f9-9de8373979b1}</ProjectGuid>
