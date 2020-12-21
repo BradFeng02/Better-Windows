@@ -6,7 +6,7 @@ Like sometimes, a pdf in chrome is made from a word doc so the entire window nam
 Turns out there isn't an extension to rename chrome windows, so I googled it and found that ahk can rename windows. But I didn't want to use ahk so researched some more and wrote this little app
 
 right now, i can rename windows or reset their name, with a little popup.
-[popup](https://github.com/BradFeng02/Better-Windows/raw/master/BetterWindows(Simple)/screenshots/rename%20popup.png)
+![popup](https://github.com/BradFeng02/Better-Windows/raw/master/BetterWindows(Simple)/screenshots/rename%20popup.png)
 look how cute it is
 
 I have plans to expand it into a full window manager where I can search for window names, switch to them, rename them, etc. all from one menu. Thats why the current version is called "simple," since I wanted to quickly get a working version to rename windows.
