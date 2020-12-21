@@ -1,4 +1,4 @@
-lets me rename any window. its surprisingly helpfu
+lets me rename any window. its surprisingly helpful
 
 it started with me wanting to rename chrome windows, since sometimes I have many windows open and the names arent descriptive.
 Like sometimes, a pdf in chrome is made from a word doc so the entire window name is just "microsoft word-..." and not the actual name.
